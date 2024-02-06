@@ -11,3 +11,8 @@
 
 - **Flask & HTML & CSS**
 
+
+
+
+## HINT :
+The pickle file in my drive, contact me if u want it
