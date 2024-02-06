@@ -7,6 +7,8 @@
 
 - **Transformers & Standarization**
 
+- **Feature Engineering & HyperParamters Tunning**
+  
 - **Machine Learning Model**
 
 - **Flask & HTML & CSS**
